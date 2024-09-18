@@ -4,11 +4,12 @@
 This repository shows how I walked through to create an Active Directory home lab Environment using Oracle VirtualBox. Configuring and running this lab will help develop understanding of how active directory and windows networking works.
 
 <h2>Project Overview</h2>
-This project demonstrates the following:
-- Installing and configuring Active Directory on a Windows Server VM.
-- Creating users and managing them using PowerShell scripts.
-- Automating user creation and management in Active Directory.
 
+<b>This project demonstrates the following:</b> 
+- Installing and configuring Active Directory on a Windows Server VM.
+- Creating users and managing them using PowerShell scripts. 
+- Automating user creation and management in Active Directory.
+  
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
@@ -19,7 +20,7 @@ This project demonstrates the following:
 - <b>Windows 10</b> (21H2)
 - <b>Server 2019</b>
  
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/s10gO3M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
